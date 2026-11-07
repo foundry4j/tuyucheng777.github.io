@@ -969,6 +969,14 @@ permalink: /csharp
 * [LightCore](https://github.com/JuergenGutsch/LightCore)：LightCore是一个轻量级的依赖注入容器，也可以用作服务定位器。
 * [CodeDi](https://github.com/JasonLiuLab/CodeDi)：CodeDi是一个基于.NET标准的工具库，可以帮助在ASP.NET Core或.NET Core项目中添加服务到服务集合。
 * [AutoRegister](https://github.com/mrpmorris/AutoRegister)：无需反射、构建时、基于约定的依赖项注册。
+* [Agoda.IoC](https://github.com/agoda-com/Agoda.IoC)：C# IoC扩展库，Agoda使用该库根据属性将类注册到IoC容器中。
+* [PocketContainer](https://github.com/jonsequitur/PocketContainer)：一个可嵌入的IoC容器，支持扩展性和约定。
+* [JuDelCo](https://github.com/JuDelCo/Core)：服务定位器、对象工厂、实用类以及大量服务，旨在简化C#应用程序和游戏的开发。
+* [Rezolver](https://github.com/ZolutionSoftware/Rezolver)：Rezolver是一个高性能的开源.NET Core IOC容器。
+* [SwiftSuspenders Sharp](https://github.com/robotlegs-sharp/swiftsuspenders-sharp)：适用于C#的快速轻量级IoC容器，由ActionScript 3的SwiftSuspenders移植而来。
+* [Injact](https://github.com/jackreimers/Injact)：Injact是一个简单易用的Godot 4依赖注入和控制反转(IoC)容器。
+* [Store Keeper](https://github.com/kant2002/storekeeper)：AOT友好的依赖注入。
+* [Dependency Management](https://github.com/essy-ecosystem/dependency-management)：Dependency Management是一个非常快速的依赖注入和组件容器，具有许多有趣的功能，而且没有反射。
 
 ## AOP
 
@@ -1512,10 +1520,9 @@ permalink: /csharp
 * [µHttpSharp](https://github.com/bonesoul/uhttpsharp)：一个非常轻量级且简单的C#嵌入式HTTP服务器。
 * [OwinDog](https://github.com/yuzd/OwinDog)：OwinDog是一款支持OWIN标准的WEB应用的高性能的HTTP服务器。
 * [EvHttp Sharp](https://github.com/kekekeks/evhttp-sharp)：基于libevent2的C# HTTP服务器。
-* [.NET Serve](https://github.com/natemcmaster/dotnet-serve)：一个简单的命令行HTTP服务器。
 * [Tus.NET](https://github.com/tusdotnet/tusdotnet)：Tus.NET是Tus协议的.NET服务器实现。
 * [HttpServer](https://github.com/qinyuanpei/HttpServer)：一个使用C#编写的简易Web服务器。
-* [SimpleHTTP](https://github.com/dajuric/simple-http)：基于HttpListener的简单、可移植的.NET HTTP服务器。
+* [SimpleHTTP](https://github.com/branch-predict/simple-http)：基于HttpListener的简单、可移植的.NET HTTP服务器。
 * [SimpleW](https://github.com/stratdev3/SimpleW)：SimpleW是一个基于.NET Core的Web服务器库。
 * [AServer](https://github.com/kklldog/AServer)：AServer是基于ASP.NET Core Kestrel封装的一个超迷你HTTP服务器。
 * [LiveReloadServer](https://github.com/RickStrahl/LiveReloadServer)：一个自包含、本地、跨平台的静态文件Web服务器，基于.NET，具有自动实时重载、Markdown渲染和基础Razor页面支持。
@@ -1531,7 +1538,17 @@ permalink: /csharp
 * [NanoFramework.WebServer](https://github.com/nanoframework/nanoFramework.WebServer)：该库为.NET NanoFramework提供了一个轻量级的多线程HTTP/HTTPS Web服务器。
 * [NRack](https://github.com/kerryjiang/NRack)：NRack是一个服务器应用程序容器，可用于后端服务的托管和管理。
 * [SpaceWizards.HttpListener](https://github.com/space-wizards/SpaceWizards.HttpListener)：这是一个相对轻量级且可嵌入的.NET HTTP服务器。
-* [Raspkate](https://github.com/daxnet/raspkate)：Raspkate是一个轻量级的Web服务器，既可以托管静态文件，也可以提供RESTful服务。
+* [LunarServer](https://github.com/Relfos/LunarServer)：依赖项最少的HTTP服务器。
+* [CosmosHTTP](https://github.com/CosmosOS/Cosmos.Network.Http)：CosmosHTTP是一个HTTP/1.1客户端和服务器。
+* [PicoHTTP](https://github.com/productiveops/picohttp)：PicoHTTP是一个用.NET编写的超小型Web服务器。
+* [ElMariachi.Http.Server](https://github.com/EmilianoElMariachi/ElMariachi.Http.Server)：这是一个用C#编写的.NET Core HTTP服务器库。
+* [SelfishHttp](https://github.com/featurist/SelfishHttp)：用于.NET测试的自托管HTTP服务器。
+* [SharpHttpServer](https://github.com/qoollo/SharpHttpServer)：基于System.Net.HttpListener的C#简单HTTP服务器。
+* [SimpleHttp](https://github.com/jamesseanwright/simple-http)：一个用C#编写的基本HTTP服务器框架。
+* [RIWebServer](https://github.com/LSXPrime/RIWebServer)：RI WebServer是一个使用C#构建的轻量级跨平台Web服务器。
+* [SharpWebServer](https://github.com/Corona-Studio/SharpWebServer)：这是一个基于.NET 6和HttpListener的简单Web服务器框架。
+* [HtcSharp](https://github.com/jpdante/HtcSharp)：基于Microsoft ASP.NET的Kestrel的Web服务器和Web开发框架，支持插件和模块。
+* [Netty](https://github.com/TSYS-Merchant/netty)：Netty是一个小型、快速、可嵌入的Web服务器和ASP.NET应用程序服务器。
 
 ## FastCGI
 
@@ -2352,6 +2369,7 @@ permalink: /csharp
 * [Tokenizers.DotNet](https://github.com/sappho192/Tokenizers.DotNet)：HuggingFace Tokenizers库的.NET封装。
 * [UAX29 .NET](https://github.com/clipperhouse/uax29.net)：一个用于.NET的分词器，可根据Unicode UAX #29标准拆分单词、字形和句子。
 * [IKAnalyzer.NET](https://github.com/stanzhai/IKAnalyzer.NET)：IKAnalyzer中文分词器在.NET平台下的实现。
+* [Uyghur Tokenizer](https://github.com/mardan/Uyghur-Tokenizer)：一个简单的维吾尔语词级分词器。
 
 ## 拼音库
 
@@ -2848,6 +2866,7 @@ permalink: /csharp
 * [MbDotNet](https://github.com/mattherman/MbDotNet)：用于与Mountebank交互的.NET客户端库。
 * [Hoverfly .NET](https://github.com/fredrikn/hoverfly-dotnet)：用于Hoverfly的.NET库。
 * [FakeHttp](https://github.com/dkackman/FakeHttp)：一个使用System.Net.Http模拟HTTP REST客户端通信的库。
+* [LightHTTP](https://github.com/javidsho/LightHTTP)：适用于.NET的轻量级模拟HTTP服务器。
 
 ## 数据Mock
 
@@ -6090,6 +6109,7 @@ permalink: /csharp
 * [Innovatian.Configuration](https://github.com/idavis/innovatian.configuration)：支持INI、XML、独立存储、注册表、命令行、.NET配置文件等存储机制的配置库。
 * [ConventionalOptions](https://github.com/derekgreer/conventional-options)：ConventionalOptions是一个方便使用Microsoft .NET Core配置API的库。
 * [Configuration](https://github.com/res-tec-systems-legacy/configuration)：一个用于强类型配置并带有验证功能的C#库。
+* [Thinktecture.Configuration](https://github.com/PawelGerr/Thinktecture.Configuration)：.NET Core的强类型配置，完全支持依赖注入。
 
 ## INI
 
@@ -6231,6 +6251,11 @@ permalink: /csharp
 * [ExcelLabs](https://github.com/doxa-labs/ExcelLabs)：ExcelLabs是一个用C#编写的Excel辅助库。
 * [ExcelHelper](https://github.com/kendallb/ExcelHelper)：一个用于读写Excel文件的库。
 * [XlsToEf](https://github.com/ajepst/XlsToEf)：XlsToEf是一个库，可以帮助你从Excel和CSV文件中导入行，然后使用Entity Framework直接保存到数据库。
+* [MyExcel](https://github.com/Tchial0/myexcel)：用于读写Excel文件的.NET Standard 2.0库。
+* [SheetHelper](https://github.com/DiegoPiovezana/SheetHelper)：快速轻量级库，可轻松读取和转换大型Excel文件。
+* [Dexiom.EPPlusExporter](https://github.com/Dexiom/Dexiom.EPPlusExporter)：一个非常简单但功能极其强大的库，可以根据对象、数组、列表、集合等生成Excel文档。
+* [LFEG](https://github.com/zihotki/LFEG)：该库旨在生成无需复杂格式或任何公式的大型Excel报表。
+* [ExcelLibrary](https://github.com/darknessomi/excellibrary)：该项目的目标是提供一个原生的.NET解决方案，用于创建、读取和修改Excel文件，而无需使用COM互操作或OLEDB连接。
 
 ## CSV
 
@@ -6318,6 +6343,9 @@ permalink: /csharp
 * [OfficeAgent.NET](https://github.com/ilia-sokolov/OfficeAgent.NET)：OfficeAgent.NET将AI代理的意图转化为对Microsoft Word文档的受控更改。
 * [DocXNETCore](https://github.com/Jetro223/DocXNETCore)：DocX .NET Core移植。
 * [WebVella.DocumentTemplates](https://github.com/WebVella/WebVella.DocumentTemplates)：一个开源的.NET库，可以使用数据表和模板文档生成电子邮件、Microsoft Excel、Microsoft Word、纯文本文件、文本和HTML文件。
+* [WordTemplater](https://github.com/luuducly/WordTemplater)：WordTemplater是一个高性能、跨平台的.NET库，可将Microsoft Word文档转换为动态报表模板。
+* [SimpleDocument.OpenXML](https://github.com/madcodemonkey/SimpleDocument.OpenXML)：一个简单的.NET库，用于向Microsoft Word文档写入内容。
+* [Berry.Docx](https://github.com/theyangfan/Berry.Docx)：基于OpenXML SDK开发的一款用于读写Word 2007+文档的.NET库，不依赖Microsoft Office应用程序。
 
 ## PDF
 
@@ -7439,6 +7467,9 @@ permalink: /csharp
 * [Memo.Wpf.Template](https://github.com/Memoyu/Memo.Wpf.Template)：WPF开箱即用项目模板。
 * [WebAPI Template .NET Core](https://github.com/ddiyteam/webapitemplate_netcore)：.NET Core WebAPI模板，包含JWT令牌身份验证、数据库连接、健康检查和HTTP客户端代理示例。
 * [ShardedDiscordBotTemplate](https://github.com/BrammyS/ShardedDiscordBotTemplate)：这是一个高级的C# Discord机器人模板。
+* [PeachPie Templates](https://github.com/peachpiecompiler/peachpie-templates)：该存储库包含各种.NET项目模板，可用于创建PeachPie编译应用程序。
+* [Backend Frontend Template](https://github.com/mccsoft/backend-frontend-template)：这是一个用于设置后端ASP.NET Core项目和前端React的模板。
+* [Scaffold](https://github.com/aussieBIMguru/Scaffold)：Scaffold用作新开发的起点。
 
 ## 后台管理系统
 
@@ -8511,6 +8542,7 @@ permalink: /csharp
 * [ZenForms](https://github.com/drJhonatan00/ZenForms)：一个适用于.NET Framework 4.7.2的主题化WinForms组件库。
 * [EWSoftware.ListControls](https://github.com/EWSoftware/ListControls)：EWSoftware.ListControls是一组扩展的.NET Windows Forms列表控件。
 * [WinFormsMapControl](https://github.com/AlexanderKrutov/WinFormsMapControl)：用于显示在线和离线地图的Windows Forms控件。
+* [WinformsExcel](https://github.com/MSDN-WhiteKnight/WinformsExcel)：WinForms Excel库允许在Windows窗体应用程序中以用户控件的形式托管MS Excel界面。
 
 ## WinForms图表库
 
@@ -12715,6 +12747,7 @@ permalink: /csharp
 * [TagDataTranslation](https://github.com/dannyhaak/TagDataTranslation)：对RAIN(UHF) RFID标签的GS1 EPC标识符进行编码和解码。
 * [DeviceHive .NET](https://github.com/devicehive/devicehive-.net)：DeviceHive .NET库。
 * [Thingsboard.NET](https://github.com/nepton/Thingsboard.Net)：Thingsboard.NET是一个用于Thingsboard物联网平台的.NET客户端库。
+* [WebThing C#](https://github.com/lillo42/webthing-csharp)：HTTP Web Thing的实现。
 
 ## 物联网网关
 
@@ -13444,6 +13477,7 @@ permalink: /csharp
 * [VIES .NET](https://github.com/zapadi/vies-dotnet)：VIES .NET API可帮助你验证欧盟增值税信息是否存在和/或是否有效。
 * [NetLedger](https://github.com/jchristn/NetLedger)：NetLedger是一个线程安全的账簿库，适用于.NET 8.0和.NET 10.0，它提供租户感知的借记/贷记工作流，以及可审计的待处理和已提交条目生命周期。
 * [SwiftParser](https://github.com/tomkurian01/SwiftParser)：用于解析SWIFT MT金融报文的C#库。
+* [MT4toExcel](https://github.com/Nondisclosure/MT4toExcel)：MQL4库，用于向Microsoft Excel发送数据和从Microsoft Excel读取数据。
 
 ## 算法交易
 
